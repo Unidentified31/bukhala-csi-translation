@@ -1,0 +1,8 @@
+{
+  "title": "Culture-specific items in Colville's English translation of al-Jāḥiẓ's al-Bukhalāʾ: classification data and scripts",
+  "upload_type": "dataset",
+  "creators": [{ "name": "Anonymous" }],
+  "description": "Classification data, term list, results tables, alignment check and Python scripts for the study 'Domain shapes strategy'. Full Arabic and English sentences are not included for copyright reasons.",
+  "license": "cc-by-4.0",
+  "keywords": ["al-Jahiz", "culture-specific items", "translation techniques", "parallel corpus", "Arabic-English translation"]
+}
